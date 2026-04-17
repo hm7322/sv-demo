@@ -1,91 +1,91 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Demo Live Channel 1" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 1
+#EXTINF:-1 tvg-name="Demo 1" tvg-logo="" group-title="Demo 1",Demo 1
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 2" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 2
+#EXTINF:-1 tvg-name="Demo 2" tvg-logo="" group-title="Demo 1",Demo 2
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 3" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 3
+#EXTINF:-1 tvg-name="Demo 3" tvg-logo="" group-title="Demo 1",Demo 3
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 4" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 4
+#EXTINF:-1 tvg-name="Demo 4" tvg-logo="" group-title="Demo 1",Demo 4
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 5" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 5
+#EXTINF:-1 tvg-name="Demo 5" tvg-logo="" group-title="Demo 1",Demo 5
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 6" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 6
+#EXTINF:-1 tvg-name="Demo 6" tvg-logo="" group-title="Demo 1",Demo 6
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 7" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 7
+#EXTINF:-1 tvg-name="Demo 7" tvg-logo="" group-title="Demo 1",Demo 7
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 8" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 8
+#EXTINF:-1 tvg-name="Demo 8" tvg-logo="" group-title="Demo 1",Demo 8
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 9" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 9
+#EXTINF:-1 tvg-name="Demo 9" tvg-logo="" group-title="Demo 1",Demo 9
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Live Channel 10" tvg-logo="" group-title="📺 Live TV",Demo Live Channel 10
+#EXTINF:-1 tvg-name="Demo 10" tvg-logo="" group-title="Demo 1",Demo 10
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 1" tvg-logo="" group-title="🎬 Movies",Demo Movie 1
+#EXTINF:-1 tvg-name="Demo 1" tvg-logo="" group-title="Demo 2",Demo 1
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 2" tvg-logo="" group-title="🎬 Movies",Demo Movie 2
+#EXTINF:-1 tvg-name="Demo 2" tvg-logo="" group-title="Demo 2",Demo 2
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 3" tvg-logo="" group-title="🎬 Movies",Demo Movie 3
+#EXTINF:-1 tvg-name="Demo 3" tvg-logo="" group-title="Demo 2",Demo 3
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 4" tvg-logo="" group-title="🎬 Movies",Demo Movie 4
+#EXTINF:-1 tvg-name="Demo 4" tvg-logo="" group-title="Demo 2",Demo 4
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 5" tvg-logo="" group-title="🎬 Movies",Demo Movie 5
+#EXTINF:-1 tvg-name="Demo 5" tvg-logo="" group-title="Demo 2",Demo 5
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 6" tvg-logo="" group-title="🎬 Movies",Demo Movie 6
+#EXTINF:-1 tvg-name="Demo 6" tvg-logo="" group-title="Demo 2",Demo 6
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 7" tvg-logo="" group-title="🎬 Movies",Demo Movie 7
+#EXTINF:-1 tvg-name="Demo 7" tvg-logo="" group-title="Demo 2",Demo 7
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 8" tvg-logo="" group-title="🎬 Movies",Demo Movie 8
+#EXTINF:-1 tvg-name="Demo 8" tvg-logo="" group-title="Demo 2",Demo 8
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 9" tvg-logo="" group-title="🎬 Movies",Demo Movie 9
+#EXTINF:-1 tvg-name="Demo 9" tvg-logo="" group-title="Demo 2",Demo 9
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Movie 10" tvg-logo="" group-title="🎬 Movies",Demo Movie 10
+#EXTINF:-1 tvg-name="Demo 10" tvg-logo="" group-title="Demo 2",Demo 10
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E01" tvg-logo="" group-title="📂 Series",Demo Series S01E01
+#EXTINF:-1 tvg-name="Demo 1" tvg-logo="" group-title="Demo 3",Demo 1
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E02" tvg-logo="" group-title="📂 Series",Demo Series S01E02
+#EXTINF:-1 tvg-name="Demo 2" tvg-logo="" group-title="Demo 3",Demo 2
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E03" tvg-logo="" group-title="📂 Series",Demo Series S01E03
+#EXTINF:-1 tvg-name="Demo 3" tvg-logo="" group-title="Demo 3",Demo 3
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E04" tvg-logo="" group-title="📂 Series",Demo Series S01E04
+#EXTINF:-1 tvg-name="Demo 4" tvg-logo="" group-title="Demo 3",Demo 4
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E05" tvg-logo="" group-title="📂 Series",Demo Series S01E05
+#EXTINF:-1 tvg-name="Demo 5" tvg-logo="" group-title="Demo 3",Demo 5
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E06" tvg-logo="" group-title="📂 Series",Demo Series S01E06
+#EXTINF:-1 tvg-name="Demo 6" tvg-logo="" group-title="Demo 3",Demo 6
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E07" tvg-logo="" group-title="📂 Series",Demo Series S01E07
+#EXTINF:-1 tvg-name="Demo 7" tvg-logo="" group-title="Demo 3",Demo 7
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E08" tvg-logo="" group-title="📂 Series",Demo Series S01E08
+#EXTINF:-1 tvg-name="Demo 8" tvg-logo="" group-title="Demo 3",Demo 8
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E09" tvg-logo="" group-title="📂 Series",Demo Series S01E09
+#EXTINF:-1 tvg-name="Demo 9" tvg-logo="" group-title="Demo 3",Demo 9
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo Series S01E10" tvg-logo="" group-title="📂 Series",Demo Series S01E10
+#EXTINF:-1 tvg-name="Demo 10" tvg-logo="" group-title="Demo 3",Demo 10
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
