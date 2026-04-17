@@ -15,21 +15,6 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_
 #EXTINF:-1 tvg-name="Demo 5" tvg-logo="" group-title="Demo 1",Demo 5
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo 6" tvg-logo="" group-title="Demo 1",Demo 6
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 7" tvg-logo="" group-title="Demo 1",Demo 7
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 8" tvg-logo="" group-title="Demo 1",Demo 8
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 9" tvg-logo="" group-title="Demo 1",Demo 9
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 10" tvg-logo="" group-title="Demo 1",Demo 10
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
 #EXTINF:-1 tvg-name="Demo 1" tvg-logo="" group-title="Demo 2",Demo 1
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
@@ -45,21 +30,6 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_
 #EXTINF:-1 tvg-name="Demo 5" tvg-logo="" group-title="Demo 2",Demo 5
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
-#EXTINF:-1 tvg-name="Demo 6" tvg-logo="" group-title="Demo 2",Demo 6
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 7" tvg-logo="" group-title="Demo 2",Demo 7
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 8" tvg-logo="" group-title="Demo 2",Demo 8
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 9" tvg-logo="" group-title="Demo 2",Demo 9
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 10" tvg-logo="" group-title="Demo 2",Demo 10
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
 #EXTINF:-1 tvg-name="Demo 1" tvg-logo="" group-title="Demo 3",Demo 1
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
@@ -73,19 +43,4 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 
 #EXTINF:-1 tvg-name="Demo 5" tvg-logo="" group-title="Demo 3",Demo 5
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 6" tvg-logo="" group-title="Demo 3",Demo 6
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 7" tvg-logo="" group-title="Demo 3",Demo 7
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 8" tvg-logo="" group-title="Demo 3",Demo 8
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 9" tvg-logo="" group-title="Demo 3",Demo 9
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-
-#EXTINF:-1 tvg-name="Demo 10" tvg-logo="" group-title="Demo 3",Demo 10
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
